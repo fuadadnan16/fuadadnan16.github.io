@@ -7,8 +7,8 @@
 
 ## Education
 - **Ph.D. in Electrical Engineering** | University of Maryland, College Park (_Expected May 2028_)
-- **M.Sc. in EEE** | IUT, Bangladesh (_March 2019_)
-- **B.Sc. in EEE** | IUT, Bangladesh (_December 2015_)  
+- **M.Sc. in EEE**  | IUT, Bangladesh (_March 2019_)
+- **B.Sc. in EEE**  | IUT, Bangladesh (_December 2015_)  
   -*Rank 1 / 87 — OIC Gold Medalist*
 
 ---
