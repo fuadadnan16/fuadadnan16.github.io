@@ -35,7 +35,7 @@ Led undergraduate courses and laboratory sessions in EEE, supervised student pro
 [GitHub Repository](https://github.com/fuadadnan16/HDR-High-Dynamic-Range-_imaging)
 
 <p align="center">
-  <img src="assets/img/HDR_github.PNG" width="150"/>
+  <img src="assets/img/HDR_github.PNG" width="250"/>
 </p>
 
 This project focuses on building an end-to-end HDR imaging pipeline starting from RAW sensor data and producing perceptually optimized display-ready images. The pipeline includes demosaicing, white balance, exposure normalization, multi-exposure fusion using multiple weighting strategies, Reinhard tone mapping, and sRGB gamma correction. The system was implemented in **Python** using **dcraw**, **ExifRead**, **NumPy**, **OpenCV**, and **Matplotlib**, with extensive parameter sweeps to study the trade-off between visual quality and file size.
@@ -46,7 +46,7 @@ This project focuses on building an end-to-end HDR imaging pipeline starting fro
 [GitHub Repository](https://github.com/fuadadnan16/Plug-and-Play-ADMM)
 
 <p align="center">
-  <img src="assets/img/pnp_github.PNG" width="150"/>
+  <img src="assets/img/pnp_github.PNG" width="250"/>
 </p>
 
 The goal of this project is to explore optimization-based image restoration using a Plug-and-Play ADMM framework that integrates powerful denoisers as implicit priors. A complete ADMM solver was implemented from first principles, incorporating **BM3D** within the iterative optimization loop. The implementation uses **Python**, **FFT-based solvers**, and **conjugate gradient methods**, and was evaluated across multiple blur kernels and noise settings, achieving up to **35–36 dB PSNR** with systematic parameter tuning.
@@ -57,7 +57,7 @@ The goal of this project is to explore optimization-based image restoration usin
 [GitHub Repository](https://github.com/fuadadnan16/Light_Field_imaging)
 
 <p align="center">
-  <img src="assets/img/LF_github.PNG" width="150"/>
+  <img src="assets/img/LF_github.PNG" width="250"/>
 </p>
 
 This project investigates depth estimation and synthetic refocusing using plenoptic images without explicit 3D reconstruction. A complete light field pipeline was developed to extract sub-aperture views, generate focal stacks through synthetic refocusing, and estimate depth using sharpness-weighted fusion and depth-from-refocus techniques. The system was implemented in **Python** using **NumPy**, **OpenCV**, and scientific computing tools, producing accurate depth maps and all-in-focus images.
@@ -67,7 +67,7 @@ This project investigates depth estimation and synthetic refocusing using plenop
 ### Drone-Based Traffic Congestion Analysis Using Real-Time Detection and Tracking 
 
 <p align="center">
-  <img src="assets/img/traffic_github.PNG" width="150"/>
+  <img src="assets/img/traffic_github.PNG" width="250"/>
 </p>
 
 Dynamic Traffic Analysis and Congestion Management: Leveraging ’N-Curves’ and Real-Time Velocity Insights. The project involves key insights on road traffic detection from drone-captured videos, where computer
@@ -79,7 +79,7 @@ vision and deep learning have been utilized to analyze vehicle speed, congestion
 
 [GitHub Repository](https://github.com/fuadadnan16/KALMAN-Filter-for-Stock-Price-Prediction)
 <p align="center">
-  <img src="assets/img/kalman_github.PNG" width="150"/>
+  <img src="assets/img/kalman_github.PNG" width="250"/>
 </p>
 
 Calculation of the stock’s volatility, and prediction of future prices based on both the current price and volatility using a Kalman filter. This model offers a practical introduction to financial forecasting with Kalman filters.
