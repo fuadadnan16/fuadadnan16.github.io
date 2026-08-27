@@ -1,6 +1,6 @@
 
 #### Ph.D. Student | Electrical Engineering | University of Maryland, College Park  
-**Research Areas:** Computational Imaging, Program Analysis, Reverse Engineering, Malware Provenance  
+**Research Areas:** Computational Imaging, Machine Learning, AI Agents   
 **Technical Skills:** Python, C/C++, MATLAB, Assembly, PyTorch, TensorFlow, OpenCV, Ghidra, FAISS, Milvus, Git, Linux
 
 ---
